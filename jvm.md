@@ -15,6 +15,15 @@
 
 
 # jvm深度学习理解
+- 调试工具
+    - idea ASM Bytecode Outline
+    - idea jclasslib Bytecode viewer
+    - jitwatch
+    - HSDB
+- 性能测试
+    - 基准测试
+        - JMH java benchmarks
+        
 - todo 画流程图
 - Java虚拟机规范
 - 本地代码/机器码/内核和机器码得区别/c是如何执行机器码的
@@ -26,7 +35,6 @@
     - 从理解Java字节码到hotspot真实在C++中对class的实现[java hotspot虚拟机 - class文件](https://blog.eson.org/pub/3a5d7b99/)
   - volatile
       - [volatile与lock前缀指令](https://blog.csdn.net/qq_26222859/article/details/52235930)
-
 
 
 
