@@ -36,7 +36,10 @@
   - volatile
       - [volatile与lock前缀指令](https://blog.csdn.net/qq_26222859/article/details/52235930)
 
+# java中的锁
 
+# 修饰符
+- [Final](https://www.jianshu.com/p/f68d6ef2dcf0)
 
 
 # reference
