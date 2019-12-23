@@ -6,6 +6,11 @@
          - [下载地址](https://www.cnblogs.com/niceboat/p/9786905.html)
          - 使用：保存到jdk目录下\jre\bin\server就可以了
 
-- idea ASM Bytecode Outline
-- idea jclasslib Bytecode viewer
-- HSDB
+
+# HSDB(Hotspot Debugger)
+- 使用
+    jdk目录下（如C:\Program Files (x86)\Java\jdk1.8.0_221\lib）执行java -cp sa-jdi.jar sun.jvm.hotspot.HSDB启动界面
+
+# 字节码idea插件
+- ASM Bytecode Outline
+- jclasslib Bytecode viewer
